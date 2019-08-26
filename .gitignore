@@ -328,3 +328,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/Teamleader API Connection/Teamleader API Connection/client_id
+/Teamleader API Connection/Teamleader API Connection/client_secret
+/Teamleader API Connection/Teamleader API Connection/password
+/Teamleader API Connection/Teamleader API Connection/username
